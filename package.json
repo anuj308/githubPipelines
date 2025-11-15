@@ -1,0 +1,21 @@
+{
+  "name": "devlops",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/anuj308/githubPipelines#readme",
+  "bugs": {
+    "url": "https://github.com/anuj308/githubPipelines/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuj308/githubPipelines.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "run" : "node index.js"
+  }
+}
