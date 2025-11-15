@@ -1,0 +1,6 @@
+
+
+ci cd
+- pipleline
+- ci - test run automatically - fail - fix it then move - github actions
+- docker - 
